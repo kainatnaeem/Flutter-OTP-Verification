@@ -1,4 +1,8 @@
-# flutter_otp_verification
+# Flutter OTP Verification
+
+
+https://github.com/kainatnaeem/Flutter-OTP-Verification/assets/54583829/2ad24da8-ecd9-456e-93e9-087c97beeb6c
+
 
 A new Flutter project.
 
